@@ -1,3 +1,3 @@
 # Hello_World
-printing a welcome
+printing a welcome.
 You heard about Pluto?
